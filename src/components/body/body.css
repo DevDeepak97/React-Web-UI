@@ -1,0 +1,123 @@
+#deshboard{
+    background: #FFFFFF;
+    box-shadow: 0px 3px 100px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    width: 486px;
+    height: 188px;
+    left: 187px;
+    top: 179px;  
+}
+#container{
+    padding-bottom: 55px;
+    padding-top: 35px;
+}
+
+#Referral-code{
+width: 358px;
+height: 105px;
+left: 766px;
+top: 179px;
+}
+
+#Referral-code>h4{
+width: 228px;
+height: 36px;
+left: 766px;
+top: 179px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+color: #800080;
+}
+
+#code{
+border-color:  #800080 ;
+border-radius: 10px; 
+width: 375px;
+height: 30px;
+left: 64px;
+top: 15px;
+padding-left: 15px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+letter-spacing: 1.5em;
+color: #800080;
+}
+
+#deshboard-data{
+    padding: 20px;
+}
+#withdraw-txt{
+padding-left: 20px;
+width: 180px;
+height: 40px;
+background: #800080;
+border-radius: 20px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+padding-top: 5px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+#how-does-work-txt{
+width: 424px;
+height: 36px;
+left: 187px;
+top: 407px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+padding-left: 5px;
+color: #800080;
+
+}
+
+#data{
+padding-left: 8px;
+
+}
+#record{
+    width: 360px;
+ padding-left: 50px;
+}
+#heading{
+   padding-left: 10px;
+}
+#img-data{
+    height: 1.8rem;
+    padding-top: 10px;
+    padding-left: 1px;
+   
+}
+
+#friends, #tnc{
+width: 159px;
+height: 24px;
+left: 187px;
+top: 843px;
+padding-left: 15px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #800080;
+}
